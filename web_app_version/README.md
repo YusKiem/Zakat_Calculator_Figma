@@ -1,0 +1,1 @@
+# Here you will find the figma file for the web_app_version of my zakat nisab calculator
